@@ -3,4 +3,4 @@
 Docker hub ID
 ID: feliciaebikon
 Password: feliciaebikon25#
-https://hub.docker.com/repository/docker/feliciaebikon/sca-cloud-school
+https://hub.docker.com/r/feliciaebikon/sca-cloud-school
