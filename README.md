@@ -1,5 +1,7 @@
 # SCA-Cloud-School-Application
 
+Details for my project work
+
 Docker hub ID
 ##ID: feliciaebikon
 ##Password: feliciaebikon25#
